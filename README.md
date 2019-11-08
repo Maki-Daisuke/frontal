@@ -1,6 +1,10 @@
 Frontal
 =======
 
+**[DEPRECATED] This package is no longer maintained, but it evolved into [WIO](https://github.com/Maki-Daisuke/go-whole-in-one/).
+Please refer it for new projects. This URL is retained only for histrical reasons to build old commands.**
+
+
 Yet another Go library for Git way of subcommand.
 
 
